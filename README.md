@@ -1,3 +1,5 @@
-# Welcome to my ARM-templates repository for testing purposes.
-# Last summer I bought two HP Proliant (G6/G7) servers, lots of memory (156GB), some SAS and SSD storage and lots of 1Gbit NIC's.
-# I aim at deploying and managing a sandbox environment with as much code as possible.
+# Welcome to my ARM-templates notes/repository
+# My HW specs: HP Proliant DL360 G7 server, dual Xeon X5670 2.93Ghz, 144 GB DDR3, 4x 300GB SAS 10K RPM + 1x 256GB SSD.
+# Azure Stack Operator Documentation https://docs.microsoft.com/en-us/azure/azure-stack/
+# Azure Stack Certification https://www.microsoft.com/en-ca/learning/mcsa-cloud-platform-certification.aspx
+# Azure Stack Certification https://www.microsoft.com/en-us/learning/exam-70-537.aspx
