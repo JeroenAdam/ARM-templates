@@ -5,6 +5,8 @@ Welcome to my ARM-templates notes/repository
 * https://docs.microsoft.com/en-us/azure/azure-stack/
 # AzureStack ARM Templates
 * https://github.com/Azure/AzureStack-QuickStart-Templates
+# AzureStack ARM Templates for deploying a SharePoint 2013 farm
+* https://github.com/JeroenAdam/ARM-templates/tree/master/sharepoint-2013-non-ha
 # Azure Stack Certification
 * https://www.microsoft.com/en-ca/learning/mcsa-cloud-platform-certification.aspx
 * https://www.microsoft.com/en-us/learning/exam-70-537.aspx
