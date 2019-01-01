@@ -5,6 +5,8 @@ Welcome to my ARM-templates notes/repository
 * https://docs.microsoft.com/en-us/azure/azure-stack/
 # AzureStack ARM Template for deploying a SharePoint 2013 farm
 * https://github.com/JeroenAdam/ARM-templates/tree/master/sharepoint-2013-non-ha
+# Deploy Kubernetes to Azure Stack
+https://docs.microsoft.com/en-us/azure/azure-stack/user/azure-stack-solution-template-kubernetes-deploy
 # AzureStack ARM Templates
 * https://github.com/Azure/AzureStack-QuickStart-Templates
 # Azure Stack Certification
