@@ -3,8 +3,6 @@ Welcome to my ARM-templates notes/repository
 * HP Proliant DL360 G7 server, dual Xeon X5670 2.93Ghz, 144 GB DDR3, 4x 300GB SAS 10K RPM + 1x 256GB SSD
 # Azure Stack Operator Documentation
 * https://docs.microsoft.com/en-us/azure/azure-stack/
-# AzureStack ARM Template for deploying a SharePoint 2013 farm
-* https://github.com/JeroenAdam/ARM-templates/tree/master/sharepoint-2013-non-ha
 # Deploy Kubernetes to Azure Stack
 https://docs.microsoft.com/en-us/azure/azure-stack/user/azure-stack-solution-template-kubernetes-deploy
 # AzureStack ARM Templates
